@@ -3,4 +3,4 @@ Here you can find the pdf attached of my work during the "Seminar: Selected Topi
 
 To keep it short, most research on Graph Neural Networks has focused so far on static graphs i.e graphs that do not change over time. However, most graphs, specifically social networks graphs do change over time ⌛️! In the review paper, I tried to give a short concise overview about state of the art methods applied on dynamic graphs, which assumptions they make and potential do research on 😁
 
-![dynamichraph figure](/images/dynamic_graph_figure.png)
+![dynamichraph figure](/images/dynamic_graph_fig.png)
